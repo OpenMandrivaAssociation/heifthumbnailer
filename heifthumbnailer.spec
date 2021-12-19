@@ -1,6 +1,6 @@
 Name: heifthumbnailer
 Version: 1.0
-Release: %{?date:0.%{date}.}1
+Release: %{?date:0.%{date}.}2
 Source0: https://github.com/zzag/heifthumbnailer/archive/%{?date:master}%{!?date:%{version}}/%{name}-%{version}.tar.gz
 Summary: Thumbnailer for HEIF image files
 URL: https://github.com/zzag/heifthumbnailer
